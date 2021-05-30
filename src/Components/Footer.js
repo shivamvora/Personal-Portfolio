@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
           <ul className="copyright">
             <li>
               Made by 💛{" "}
-              <a title="Shivam" href="http://www.ksdevware.com/">
+              <a title="Shivam" href="https://personal-portfolio-rust.vercel.app/">
                 Shivam Vora
               </a>
             </li>

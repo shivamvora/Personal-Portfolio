@@ -13,7 +13,7 @@
       "state": "Gujarat",
       "zip": "360003"
     },
-    "website": "https://www.ksdevware.com",
+    "website": "https://personal-portfolio-rust.vercel.app/",
     "resumedownload": "https://my.indeed.com/p/shivamp-8pfd9lc/",
     "social": [
       {
@@ -150,7 +150,7 @@
         "title": "Personal Portfolio",
         "category": "",
         "image": "portfolio.png",
-        "url": ""
+        "url": "https://personal-portfolio-rust.vercel.app/"
       },
       {
         "title": "Music Player",
