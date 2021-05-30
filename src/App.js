@@ -4,7 +4,7 @@ import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import AboutNew from "./Components/About/";
 import Contact from "./Components/Contact";
-import Testimonials from "./Components/Testimonials";
+// import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
 
 import "./App.css";
@@ -29,7 +29,7 @@ const App = () => {
           <AboutNew data={resumeData.main} skills={resumeData.resume.skills} counter={resumeData.resume.counter} />
           <Experience data={resumeData.resume} />
           <Portfolio data={resumeData.portfolio} />
-          <Testimonials data={resumeData.testimonials} />
+          {/* <Testimonials data={resumeData.testimonials} /> */}
           <Contact data={resumeData.main} />
           <Footer data={resumeData.main} />
         </>

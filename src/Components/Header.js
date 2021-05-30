@@ -53,11 +53,11 @@ const Header = ({ data }) => {
                 Works
               </AnchorLink>
             </li>
-            <li>
+            {/* <li>
               <AnchorLink className="smoothscroll" href="#testimonials">
                 Testimonials
               </AnchorLink>
-            </li>
+            </li> */}
             <li>
               <AnchorLink className="smoothscroll" href="#contact">
                 Contact
