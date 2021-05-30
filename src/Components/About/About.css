@@ -1,0 +1,106 @@
+.aboutNew{
+    background: #F4F4FA;
+    padding: 70px 0;
+}
+.section_header{
+    font-size: 3.1em;
+    position: relative;
+    width: fit-content;
+    margin-bottom: 25px;
+}
+.section_header::after{
+    content: "";
+    position: absolute;
+    bottom: -12px;
+    left: 0;
+    height: 3px;
+    width: calc(100% - 70px);
+    background: #FF4C60;
+    z-index: 3;
+    transform: translateX(70px);
+    -webkit-transform: translateX(70px);
+    -moz-transform: translateX(70px);
+    -ms-transform: translateX(70px);
+    -o-transform: translateX(70px);
+}
+.aboutNew__content{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 30px 0;
+}
+.aboutNew__content_avatar{
+    width: 200px;
+}
+.aboutNew__content_avatar img{
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.aboutNew__content_details{
+    flex: 1;
+}
+.aboutNew__content_details{
+    box-shadow:#45436010 0px 5px 20px 0px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background: #fff;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.aboutNew__content_details_data{
+    width: 47%;
+}
+.aboutNew__content_details_skills{
+    flex: 1;
+    padding-left: 20px;
+}
+.aboutNew__counter{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 39px;
+}
+
+/* ============= */
+/* ---------------Responsive--------------- */
+/* ============= */
+
+@media (max-width: 768px) {
+    .aboutNew{
+        padding: 40px 0;
+        padding-bottom: 20px;
+    }
+    .section_header{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .aboutNew__content{
+        flex-direction: column;
+    }
+    .aboutNew__content_avatar{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .aboutNew__content_details{
+        flex-direction: column;
+    }
+    .aboutNew__content_details_data{
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .aboutNew__content_details_skills{
+        padding-left: 0;
+    }
+}

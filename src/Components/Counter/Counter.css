@@ -1,0 +1,30 @@
+.counter{
+    display: flex;
+    margin-bottom: 20px;
+    width: 25%;
+}
+.counter__icon i{
+    font-size: 37px;
+    color: #cccccc;
+}
+.counter__content{
+    margin-left: 13px;
+    padding-left: 10px;
+}
+.counter__content h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    color: #353353;
+    font-size: 2.3em !important;
+    margin-bottom: 5px;
+}
+
+@media (max-width: 768px) {
+    .counter{
+        width: 50%;
+    }
+}
+
+@media (max-width: 576px){
+    
+}

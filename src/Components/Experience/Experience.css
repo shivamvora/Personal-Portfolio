@@ -1,0 +1,21 @@
+.experience{ 
+    background: #F4F4FA;
+    padding: 70px 0;
+}
+.experience__content{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    align-items: flex-start;
+}
+
+@media (max-width: 768px) {
+    .experience{
+        padding: 40px 0;
+        padding-bottom: 20px;
+    }
+    .experience__content{
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name": "Shivam Vora",
+    "occupation": "Self Learner",
+    "description": "Passionate Developer",
+    "image": "profilepic.jpg",
+    "bio": "Hello! I’m Shivam Vora. I’ve Been working as web developer and UI/UX designer over 2 Years. I provide you with the technology that you would require to create and deploy the most engaging and easy mobile and web development apps along with other IT services. I not only believe in providing you with the best IT services but also ensure post support services as well.",
+    "email": "vorashivam0@gmail.com",
+    "phone": "+91 9638334295",
+    "address": {
+      "street": "Madhav Residency",
+      "city": "Rajkot",
+      "state": "Gujarat",
+      "zip": "360003"
+    },
+    "website": "https://www.ksdevware.com",
+    "resumedownload": "https://my.indeed.com/p/shivamp-8pfd9lc/",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/watch?v=nPCfL_fuUk4",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shivam.vora.184/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "http://www.linkedin.com/in/shivam-vora-79565a198",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shivam_vora/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shivamvora",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "https://join.skype.com/invite/YzGdM3uSfxzM",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Omkar Multi Talented School",
+        "degree": "10th Grade",
+        "graduated": "July 2019",
+        "description": "Passed  with 94%"
+      },
+      {
+        "school": "TDES,Rajkot",
+        "degree": "9th Grade",
+        "graduated": "July 2018",
+        "description": "Passed with 96%"
+      },
+      {
+        "school": "Atmiya University,Rajkot",
+        "degree": "BCA",
+        "graduated": "July 2022",
+        "description": "Awaited Current CGPA 9"
+      }
+    ],
+    "work": [
+      {
+        "company": "dominant consultancy services",
+        "title": "Software Engineer Intern",
+        "years": "January 2021 - Present",
+        "description": "we create website firm that specializes in growing business to business companies. Our designs are cutting edge, and our results are unmatched. In a time where digital proficiency matters more than ever, we are the partner you are looking for."
+      },
+      {
+        "company": "Divine ERP",
+        "title": "Web Developer",
+        "years": "September 2020",
+        "description": "Developed many websites. Worked on improving user interfaces for websites. Optimized website speed. Helped to solve websites issues/bugs"
+      }
+    ],
+    "counter": [
+      {
+        "title": "Projects completed",
+        "count": 10,
+        "icon": "fire"
+      },
+      {
+        "title": "Cup of coffee",
+        "count": 1000,
+        "icon": "mug"
+      },
+      {
+        "title": "Satisfied clients",
+        "count": 5,
+        "icon": "users"
+      },
+      {
+        "title": "Certificates won",
+        "count": 12,
+        "icon": "award"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": 95
+      },
+      {
+        "name": "Front-end development",
+        "level": 90
+      },
+      {
+        "name": "Backend-development",
+        "level": 85
+      },
+      {
+        "name": "Firebase",
+        "level": 95
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Linkedin clone - Full-stack with Create a Post",
+        "category": "",
+        "image": "linkedin.png",
+        "url": "https://linkedin-1-41c44.firebaseapp.com/"
+      },
+      {
+        "title": "Google Meet UI design and development",
+        "category": "",
+        "image": "DominantMeet1.png",
+        "url": "https://607000b76fd9086bdd2cf2e7--dominant-meet.netlify.app/"
+      },
+      {
+        "title": "Real-Time Chat Web-App",
+        "category": "",
+        "image": "dominant.png",
+        "url": "https://chat-e8fbc.firebaseapp.com/"
+      },
+    
+      {
+        "title": "Personal Portfolio",
+        "category": "",
+        "image": "portfolio.png",
+        "url": ""
+      },
+      {
+        "title": "Music Player",
+        "category": "",
+        "image": "mplayer.jpeg",
+        "url": "https://shivamvora.github.io/musicplayer.github.io/"
+      }
+    ]
+  }
+
+}

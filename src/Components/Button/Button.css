@@ -1,0 +1,22 @@
+.appButton{
+    color: #fff !important;
+    font-weight: bold;
+    background-color: #ff4c60;
+    padding: 12px 32px;
+    text-align: center;
+    border-radius:30px;
+    -webkit-border-radius:30px;
+    -moz-border-radius:30px;
+    -ms-border-radius:30px;
+    -o-border-radius:30px;
+    border: 1px solid #ff4c60;
+    transition: all .4s;
+    -webkit-transition: all .4s;
+    -moz-transition: all .4s;
+    -ms-transition: all .4s;
+    -o-transition: all .4s;
+}
+.appButton:hover{
+    background-color: transparent;
+    color: #ff4c60 !important;
+}

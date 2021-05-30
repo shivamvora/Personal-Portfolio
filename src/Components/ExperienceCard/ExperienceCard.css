@@ -1,0 +1,19 @@
+.experienceCard{
+    width: 48%;
+    background: #fff;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    box-shadow:#45436010 0px 5px 20px 0px;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .experienceCard{
+        width: 100%;
+    }
+    
+}
