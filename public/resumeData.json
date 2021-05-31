@@ -52,22 +52,22 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Omkar Multi Talented School",
-        "degree": "10th Grade",
-        "graduated": "July 2019",
-        "description": "Passed  with 94%"
-      },
-      {
-        "school": "TDES,Rajkot",
-        "degree": "9th Grade",
-        "graduated": "July 2018",
-        "description": "Passed with 96%"
-      },
-      {
         "school": "Atmiya University,Rajkot",
         "degree": "BCA",
         "graduated": "July 2022",
         "description": "Awaited Current CGPA 9"
+      },
+      {
+        "school": "Omkar Multi Talented School",
+        "degree": "12th Grade",
+        "graduated": "May 2019",
+        "description": "Passed  with 94%"
+      },
+      {
+        "school": "TDES,Rajkot",
+        "degree": "10th Grade",
+        "graduated": "June 2018",
+        "description": "Passed with 96%"
       }
     ],
     "work": [
@@ -145,18 +145,18 @@
         "image": "dominant.png",
         "url": "https://chat-e8fbc.firebaseapp.com/"
       },
-    
-      {
-        "title": "Personal Portfolio",
-        "category": "",
-        "image": "portfolio.png",
-        "url": "https://personal-portfolio-rust.vercel.app/"
-      },
+      
       {
         "title": "Music Player",
         "category": "",
         "image": "mplayer.jpeg",
         "url": "https://shivamvora.github.io/musicplayer.github.io/"
+      },
+      {
+        "title": "Personal Portfolio",
+        "category": "",
+        "image": "portfolio.jpg",
+        "url": "https://personal-portfolio-rust.vercel.app/"
       }
     ]
   }
